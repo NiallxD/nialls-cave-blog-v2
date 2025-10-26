@@ -14,8 +14,8 @@ open_count: 4
 last_opened: 2025-10-24 20:33:12
 maturity: 🌱
 publish: true
-post_no: "0002"
-title: "[0002] Adopting an AI Workflow"
+post_no: "0001"
+title: "[0001] Adopting an AI Workflow"
 description: "It’s 2025 and big tech is force feeding us artificial intelligence everywhere we look. If an app on the App Store didn’t use AI, it’s considered outdated."
 permalink: "adopting-an-ai-workflow"
 published: "2025-09-12"
