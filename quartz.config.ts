@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "niallbell.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -29,28 +29,28 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#FFFAF3",           // soft neutral background
+          lightgray: "#dcdcdc",       // subtle borders
+          gray: "#a0a0a0",            // graph links, heavier borders
+          darkgray: "#3a3a3a",        // body text (dark grey)
+          dark: "#1f1f1f",            // header text and icons
+          secondary: "#517885",       // link color, current graph node
+          tertiary: "#517885",        // hover states, visited graph nodes
+          highlight: "rgba(81, 120, 133, 0.1)", // internal link background
+          textHighlight: "#51788533", // markdown highlight background
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1F1D2E",           // dark background
+          lightgray: "#2c2c2e",       // subtle borders
+          gray: "#505050",            // graph links, heavier borders
+          darkgray: "#d0d0d0",        // body text (light grey)
+          dark: "#f0f0f0",            // header text and icons
+          secondary: "#517885",       // link color, current graph node
+          tertiary: "#517885",        // hover states, visited graph nodes
+          highlight: "rgba(81, 120, 133, 0.2)", // internal link background
+          textHighlight: "#51788533", // markdown highlight background
         },
-      },
+      }
     },
   },
   plugins: {
@@ -88,7 +88,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
