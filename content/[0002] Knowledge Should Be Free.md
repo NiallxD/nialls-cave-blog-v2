@@ -11,14 +11,14 @@ tags:
   - Science
   - Research
 created: 26/10/2025
-maturity: 🌿
+maturity: 🌲
 publish: true
 post_no: "0002"
 rating:
 open_count: 1
-title: "[0002] Scientific Knowledge Should Be Free"
+title: "[0002] Knowledge Should Be Free"
 description: "Scientific knowledge should be free for all. What does this mean?"
-permalink: "scientific-knowledge-should-be-free"
+permalink: "knowledge-should-be-free"
 published: "2025-10-26"
 
 ---

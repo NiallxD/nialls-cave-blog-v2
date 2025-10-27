@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Noto Serif",
+        body: "Noto Serif",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -37,7 +37,7 @@ const config: QuartzConfig = {
           secondary: "#517885",       // link color, current graph node
           tertiary: "#517885",        // hover states, visited graph nodes
           highlight: "rgba(81, 120, 133, 0.1)", // internal link background
-          textHighlight: "#51788533", // markdown highlight background
+          textHighlight: "rgba(0, 0, 0, 0)", // markdown highlight background
         },
         darkMode: {
           light: "#1F1D2E",           // dark background
@@ -48,7 +48,7 @@ const config: QuartzConfig = {
           secondary: "#517885",       // link color, current graph node
           tertiary: "#517885",        // hover states, visited graph nodes
           highlight: "rgba(81, 120, 133, 0.2)", // internal link background
-          textHighlight: "#51788533", // markdown highlight background
+          textHighlight: "rgba(0, 0, 0, 0)", // markdown highlight background
         },
       }
     },
