@@ -1,8 +1,19 @@
 @use "sass:map";
-
-@use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
+@use "./variables.scss" as *;
+
+// Main content grid layout
+#quartz-body {
+  display: grid;
+  grid-template-columns: 400px minmax(0, 1fr) 400px;
+  grid-template-rows: auto auto auto;
+  column-gap: 5px;
+  row-gap: 5px;
+  grid-template-areas:
+    "grid-sidebar-left grid-header grid-sidebar-right"
+    "grid-sidebar-left grid-center grid-sidebar-right"
+    "grid-sidebar-left grid-footer grid-sidebar-right";
 
 html {
   scroll-behavior: smooth;
@@ -29,7 +40,14 @@ body {
   color: var(--darkgray);
 }
 
-p,
+// Justify paragraph text
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+// Reset text alignment for other elements
 ul,
 text,
 a,

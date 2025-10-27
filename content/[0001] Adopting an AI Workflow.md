@@ -12,7 +12,7 @@ created: 12/09/2025
 rating:
 open_count: 4
 last_opened: 2025-10-24 20:33:12
-maturity: 🌱
+maturity: 🌿
 publish: true
 post_no: "0001"
 title: "[0001] Adopting an AI Workflow"
