@@ -33,33 +33,37 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
 
-      // Add bullet point after date if there's a date and reading time
-      if (fileData.dates && options.showReadingTime) {
-        segments.push(<span> • </span>)
-      }
-
-      // Display reading time if enabled
+      // Add reading time if enabled
       if (options.showReadingTime) {
         const { minutes, words: _words } = readingTime(text)
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(<span>{displayedTime}</span>)
+        segments.push(
+          <span class="meta-item">
+            {displayedTime}
+          </span>
+        )
       }
 
-      console.log('Frontmatter data:', fileData.frontmatter)
-      // Debug log the entire frontmatter
-      
-      // Check if maturity exists in frontmatter
-      const maturity = fileData.frontmatter?.maturity
-      console.log('Maturity value:', maturity)
-      
-      // Add subtle maturity indicator if exists in frontmatter
+      // Add topic if it exists in frontmatter
+      if (fileData.frontmatter?.topic) {
+        const topics = Array.isArray(fileData.frontmatter.topic) 
+          ? fileData.frontmatter.topic.join(', ')
+          : String(fileData.frontmatter.topic);
+        segments.push(
+          <span class="meta-item">
+            {topics}
+          </span>
+        )
+      }
+
+      // Add maturity indicator if it exists in frontmatter
       if (fileData.frontmatter?.maturity) {
         const maturity = String(fileData.frontmatter.maturity).replace(/^['"]|['"]$/g, '')
         segments.push(
-          <span>
-            {' • '}Maturity: {maturity}
+          <span class="meta-item">
+            Maturity: {maturity}
           </span>
         )
       }

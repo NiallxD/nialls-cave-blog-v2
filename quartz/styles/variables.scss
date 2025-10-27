@@ -49,7 +49,7 @@ $tabletGrid: (
 
 $desktopGrid: (
   templateRows: "auto auto auto",
-  templateColumns: "#{$sidePanelWidth} minmax(0, 1fr) #{$sidePanelWidth}",
+  templateColumns: "400px minmax(0, 1fr) 400px",
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:

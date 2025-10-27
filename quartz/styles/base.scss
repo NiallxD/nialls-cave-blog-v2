@@ -17,30 +17,18 @@ body {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
 
+  // Main content grid layout
   & > #quartz-body {
-    flex: 1;
     display: grid;
-    grid-template-columns: #{map.get($desktopGrid, templateColumns)};
-    grid-template-rows: #{map.get($desktopGrid, templateRows)};
-    column-gap: #{map.get($desktopGrid, columnGap)};
-    row-gap: #{map.get($desktopGrid, rowGap)};
-    grid-template-areas: #{map.get($desktopGrid, templateAreas)};
-
-    @media #{$tablet} {
-      grid-template-columns: #{map.get($tabletGrid, templateColumns)};
-      grid-template-rows: #{map.get($tabletGrid, templateRows)};
-      grid-template-areas: #{map.get($tabletGrid, templateAreas)};
-    }
-
-    @media #{$mobile} {
-      grid-template-columns: #{map.get($mobileGrid, templateColumns)};
-      grid-template-rows: #{map.get($mobileGrid, templateRows)};
-      grid-template-areas: #{map.get($mobileGrid, templateAreas)};
-    }
+    grid-template-columns: 400px minmax(0, 1fr) 400px;
+    grid-template-rows: auto auto auto;
+    column-gap: 5px;
+    row-gap: 5px;
+    grid-template-areas:
+      "grid-sidebar-left grid-header grid-sidebar-right"
+      "grid-sidebar-left grid-center grid-sidebar-right"
+      "grid-sidebar-left grid-footer grid-sidebar-right";
   }
 }
 
