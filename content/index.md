@@ -28,7 +28,7 @@ I use this system to remind myself to revisit thoughts which I maybe haven't for
 
 ## Before you go
 
-I must remind you that these words are the opinions of my own, here you might find something you feel is true, but it is only for certain true through my own eyes.
+I must remind you that these words are the opinions of my own (no AI slop either), here you might find something you feel is true, but it is only for certain true through my own eyes.
 
 >[!QUOTE]Say not, ‘I have found the truth,’ but rather, ‘I have found a truth" *- Kahlil Gibran (1923)*
 
