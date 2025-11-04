@@ -1,21 +1,17 @@
 ---
-category:
-  - Environment
-topic:
-  - Meteorology
-tags:
-  - Weather
-  - Climate
+category: ["Environment"]
+topic: ["Meteorology"]
+tags: ["Weather","Climate"]
 created: 10/08/2025
 rating: 0
-maturity: 🌿
+maturity: "🌿"
 publish: true
 post_no: "0007"
-open_count: 1
-last_opened: 2025-11-02 23:20:59
-title: "[0007] April Showers - UK"
+open_count: 4
+last_opened: "2025-11-03 19:05:04"
+title: "[0007] April Showers"
 description: "# April Showers"
-permalink: "april-showers-uk"
+permalink: "april-showers"
 published: "2025-08-10"
 
 ---

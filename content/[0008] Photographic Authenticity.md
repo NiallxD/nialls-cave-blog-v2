@@ -1,23 +1,15 @@
 ---
-category:
-  - On Life
-  - 
-topic:
-  - Ethics & Philosophy
-subtopic:
-  - Values
-tags:
-  - Virtues
-  - Authenticity
-  - The-Self
-  - Values
+category: ["On Life",null]
+topic: ["Ethics & Philosophy"]
+subtopic: ["Values"]
+tags: ["Virtues","Authenticity","The-Self","Values"]
 created: 29/10/2025
-rating:
-open_count: 8
-maturity: 🌿
+rating: null
+open_count: 11
+maturity: "🌿"
 publish: true
 post_no: "0008"
-last_opened: 2025-11-03 00:02:49
+last_opened: "2025-11-03 19:04:23"
 title: "[0008] Photographic Authenticity"
 description: "> [!Abstract] Charles Taylor"
 permalink: "photographic-authenticity"
