@@ -1,21 +1,15 @@
 ---
-category:
-  - On Science
-  - 
-topic:
-  - Scientific Research
-subtopic:
-  - Freedom of Knowledge
-tags:
-  - Knowledge
-  - Science
-  - Research
-created: 26/10/2025
-maturity: 🌲
+category: ["On Science",null]
+topic: ["Scientific Research"]
+subtopic: ["Freedom of Knowledge"]
+tags: ["Knowledge","Science","Research"]
+created: "26/10/2025"
+maturity: "🌲"
 publish: true
 post_no: "0002"
-rating:
-open_count: 1
+rating: null
+open_count: 2
+last_opened: "2025-11-05 15:10:47"
 title: "[0002] Knowledge Should Be Free"
 description: "Scientific knowledge should be free for all. What does this mean?"
 permalink: "knowledge-should-be-free"

@@ -1,22 +1,14 @@
 ---
-category:
-  - Language
-  - Human Condition
-  - ADHD
-topic:
-  - Obscure Concepts
-  - Psychology
-tags:
-  - ComplexityBlindness
-  - HumanCondition
-  - Concepts
-created: 17/10/2025
+category: ["Language","Human Condition","ADHD"]
+topic: ["Obscure Concepts","Psychology"]
+tags: ["ComplexityBlindness","HumanCondition","Concepts"]
+created: "17/10/2025"
 post_no: "0004"
-maturity: 🌲
+maturity: "🌲"
 publish: true
 rating: 0
-open_count: 2
-last_opened: 2025-11-02 23:20:40
+open_count: 3
+last_opened: "2025-11-05 15:13:30"
 title: "[0004] Complexity Blindness"
 description: "So often in my day to day life I run into people/opinions which fall foul of the same errors. Often these concern politics, but other areas are impacted too, such as the way in which people drive their cars, the way they choose to purchase goods in the supermarket...even the supermarket they choose to shop at. It seems everywhere you look people are making decisions based on a fundamentally erroneous view of the world around them."
 permalink: "complexity-blindness"

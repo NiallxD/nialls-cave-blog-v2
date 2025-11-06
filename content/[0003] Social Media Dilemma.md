@@ -1,27 +1,21 @@
 ---
-category:
-  - On Technology
-  - 
-topic:
-  - The Internet
-subtopic:
-  - Social Media
-tags:
-  - Social-Media
-  - The-Internet
-created: 24/08/2024
+category: ["On Technology",null]
+topic: ["The Internet"]
+subtopic: ["Social Media"]
+tags: ["Social-Media","The-Internet"]
+created: "24/08/2024"
 post_no: "0003"
-maturity: 🌲
-rating:
-open_count: 1
+maturity: "🌲"
+rating: null
+open_count: 2
 publish: true
+last_opened: "2025-11-05 15:17:35"
 title: "[0003] Social Media Dilemma"
 description: "Hey! I wrote this back in August 2024 so I have updated a few bits. I should note I do use social media now, but my usage has changed a lot."
 permalink: "social-media-dilemma"
 published: "2024-08-24"
 
 ---
-
 
 Hey! I wrote this back in August 2024 so I have updated a few bits. I should note I do use social media now, but my usage has changed a lot.
 

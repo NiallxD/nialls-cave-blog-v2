@@ -1,27 +1,21 @@
 ---
-category:
-  - On Photography
-topic:
-  - Ethics & Philosophy
-subtopic:
-  - Analogue Photography
-tags:
-  - Film-Photography
-  - photography
-  - Dark-Room
-created: 10/12/2022
+category: ["On Photography"]
+topic: ["Ethics & Philosophy"]
+subtopic: ["Analogue Photography"]
+tags: ["Film-Photography","photography","Dark-Room"]
+created: "10/12/2022"
 post_no: "0005"
-maturity: 🌲
+maturity: "🌲"
 publish: true
-rating:
-open_count: 1
+rating: null
+open_count: 2
+last_opened: "2025-11-05 15:18:07"
 title: "[0005] Film Photography"
 description: "> [!NOTE] "
 permalink: "film-photography"
 published: "2022-12-10"
 
 ---
-
 
 > [!NOTE] 
 > This is version three of an article from an old blog post I wrote on the previous version of niallbell.com. It's a fairly long post reflecting on my personal adventure into film photography and my motivations for doing so.

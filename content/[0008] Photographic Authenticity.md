@@ -1,15 +1,15 @@
 ---
-category: ["On Life",null]
+category: ["On Photography"]
 topic: ["Ethics & Philosophy"]
-subtopic: ["Values"]
+subtopic: ["Ethical Photography"]
 tags: ["Virtues","Authenticity","The-Self","Values"]
-created: 29/10/2025
+created: "29/10/2025"
 rating: null
-open_count: 11
+open_count: 16
 maturity: "🌿"
 publish: true
 post_no: "0008"
-last_opened: "2025-11-03 19:04:23"
+last_opened: "2025-11-05 14:36:01"
 title: "[0008] Photographic Authenticity"
 description: "> [!Abstract] Charles Taylor"
 permalink: "photographic-authenticity"

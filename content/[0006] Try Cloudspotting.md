@@ -1,22 +1,15 @@
 ---
-category:
-  - On Life
-  - 
-topic:
-  - Hobbies
-subtopic:
-  - Cloudspotting
-tags:
-  - Cloudspotting
-  - Hobbies
-  - Meteorology
-created: 26/10/2025
+category: ["On Life",null]
+topic: ["Hobbies"]
+subtopic: ["Cloudspotting"]
+tags: ["Cloudspotting","Hobbies","Meteorology"]
+created: "26/10/2025"
 post_no: "0006"
-maturity: 🌲
+maturity: "🌲"
 publish: true
-rating:
-open_count: 2
-last_opened: 2025-11-02 22:57:02
+rating: null
+open_count: 3
+last_opened: "2025-11-05 15:02:08"
 title: "[0006] Try Cloudspotting"
 description: "Cloudspotting, despite what my autocorrect thinks, is a real thing, and I'm here to talk about why I think everybody should try to become just a little bit obsessed with clouds."
 permalink: "try-cloudspotting"

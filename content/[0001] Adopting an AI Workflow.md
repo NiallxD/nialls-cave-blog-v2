@@ -1,18 +1,13 @@
 ---
-category:
-  - On Technology
-topic:
-  - Artificial Intelligence
-subtopic:
-  - AI Workflow
-tags:
-  - AI
-  - LLM
-created: 12/08/2025
-rating:
-open_count: 6
-last_opened: 2025-11-03 00:22:45
-maturity: 🌿
+category: ["On Technology"]
+topic: ["Artificial Intelligence"]
+subtopic: ["AI Workflow"]
+tags: ["AI","LLM"]
+created: "12/08/2025"
+rating: null
+open_count: 7
+last_opened: "2025-11-05 15:17:45"
+maturity: "🌿"
 publish: true
 post_no: "0001"
 title: "[0001] Adopting an AI Workflow"
