@@ -21,7 +21,7 @@ It’s 2025 and big tech is force feeding us artificial intelligence everywhere 
 
 A key reoccurring theme is that of AI integration. The question of how do we integrate AI into our lives?
 
-I attended a [[Nerd Nite - 1st Oct 2025]] session where a local film maker reflected on his experience using AI after an insightful boat trip to Alaska. The discourse went something like this:
+I attended a [[Nerd Night - 1st Oct 2025]] session where a local film maker reflected on his experience using AI after an insightful boat trip to Alaska. The discourse went something like this:
 
 1. When in nature, we don’t demand that she gives us the things we want; the breaching whale, the perfect sunset; the calm lake.
 2. We should use this same philosophy with AI. We should demand what we want of it; write me a blog post; reword this email to sound professional; give me a recipe.
