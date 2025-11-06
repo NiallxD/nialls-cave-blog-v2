@@ -13,7 +13,7 @@ tags:
   - Critical-Thinking
 created: 26/10/2025
 post_no: "0010"
-maturity: 🌱
+maturity: 🌿
 publish: true
 rating:
 open_count: 4
