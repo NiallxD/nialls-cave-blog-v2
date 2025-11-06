@@ -53,6 +53,8 @@ In this example, the proper photographer is not being inherently unethical, but 
 
 One of the most common unethical practises we see today is commercial hide photography. A photographer pays a few hundred £ to go and sit in a hide and photograph an animal. The animal frequents the hide because bait is used to lure them in. Perches are set up for the birds to land on, and bait is placed nearby. The photographer takes their photographs and goes home a happy bunny. Little do they know that their photographs are both mediocre and unethical. But when they share their photographs online, their following gives nothing but praise! 'how did you manage that!?', 'Wow! you got so close!', 'that's an amazing action shot!'. The viewers go away feeling impressed by what the photographer achieved, and the photographer bathes themself in likes and social approval. 
 
+> *I have to disclose that I have attended paid photography hides in the past. This was before I knew just how harmful they are. I did always do my due diligence to make sure they were not the really bad kind, the one where they nail bail down etc. This is one of the reasons why I make such a big deal about it now.*
+
 ## In The Real World
 
 Let's carry out a thought experiment...
