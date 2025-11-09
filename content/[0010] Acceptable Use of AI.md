@@ -1,23 +1,15 @@
 ---
-category:
-  - On Technology
-  - 
-topic:
-  - Artificial Intelligence
-  - 
-subtopic:
-  - Living With AI
-tags:
-  - AI
-  - Artificial-Intelligence
-  - Critical-Thinking
-created: 26/10/2025
+category: ["On Technology",null]
+topic: ["Artificial Intelligence",null]
+subtopic: ["Living With AI"]
+tags: ["AI","Artificial-Intelligence","Critical-Thinking"]
+created: "26/10/2025"
 post_no: "0010"
-maturity: 🌿
+maturity: "🌿"
 publish: true
-rating:
-open_count: 4
-last_opened: 2025-11-05 22:22:57
+rating: null
+open_count: 7
+last_opened: "2025-11-06 14:51:28"
 title: "[0010] Acceptable Use of AI"
 description: "*In this post I use the term AI often. Unless stated this term refers to LLMs, GPTs, and similar generative AI tools*"
 permalink: "acceptable-use-of-ai"
