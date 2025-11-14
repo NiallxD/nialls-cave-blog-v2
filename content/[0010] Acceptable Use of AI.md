@@ -8,8 +8,8 @@ post_no: "0010"
 maturity: "🌿"
 publish: true
 rating: null
-open_count: 7
-last_opened: "2025-11-06 14:51:28"
+open_count: 8
+last_opened: "2025-11-13 22:40:58"
 title: "[0010] Acceptable Use of AI"
 description: "*In this post I use the term AI often. Unless stated this term refers to LLMs, GPTs, and similar generative AI tools*"
 permalink: "acceptable-use-of-ai"
