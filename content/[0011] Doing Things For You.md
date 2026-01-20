@@ -1,20 +1,15 @@
 ---
-category:
-  - On Life
-  - 
-topic:
-  - Photography
-subtopic:
-  - Photographic Philosophy
-tags:
-  - On-Life
-  - photography
-created: 08/11/2025
-rating:
-open_count: 1
+category: ["On Life",null]
+topic: ["Photography"]
+subtopic: ["Photographic Philosophy"]
+tags: ["On-Life","photography"]
+created: "08/11/2025"
+rating: null
+open_count: 2
 publish: true
 post_no: "0011"
-maturity: 🌿
+maturity: "🌿"
+last_opened: "2025-11-13 23:26:13"
 title: "[0011] Doing Things For You"
 description: "*Note: This is one of those topics I find interesting. I'm not an expert by any means.*"
 permalink: "doing-things-for-you"
